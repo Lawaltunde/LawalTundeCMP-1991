@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#home{
+    float: right;
+}
+
+.ul-acca{
+    max-width: 500px;
+    margin: 100px;
+}
+
+.ul-acca > li{
+    margin: 5px, 5px;
+}
+#title{
+    text-align: center;
+    font-weight: bold;
+}
